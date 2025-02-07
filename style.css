@@ -1,0 +1,18 @@
+html {
+    display:flex;
+    background-color: darkred;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    justify-content: center;
+}
+
+button {
+    background-color: red;
+}
+
+body {
+    background-color: lightcoral;
+    text-align: center;
+    border: solid black;
+}
